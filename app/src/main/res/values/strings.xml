@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Community</string>
+    <string name="web_client_id">612822531666-g1n9dsmi0q0aq0lensmav5r8ne9b2i5v.apps.googleusercontent.com</string>
+    <string name="welcome">Hello Friend.\nWelcome to The Community</string>
+    <string name="admin_panel">Admin panel</string>
+    <string name="communities">Communities</string>
+</resources>
